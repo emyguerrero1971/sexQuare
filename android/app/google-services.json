@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560925973542",
+    "project_id": "sexquare-6464d",
+    "storage_bucket": "sexquare-6464d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560925973542:android:4b84100f1ea052a7941ae7",
+        "android_client_info": {
+          "package_name": "com.powerlinks.sexquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560925973542-dvd7a7dj8uom73crgnjjh0oh12himoe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powerlinks.sexquare",
+            "certificate_hash": "7df0d6ea8deeb8ccf40134a00686845cca7e4a79"
+          }
+        },
+        {
+          "client_id": "560925973542-ghie0mmdsbiljdhsjibp6p9km7kol3nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcf_Edyq_AxeOwg4UzPHZPcqFE9e8D9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560925973542-ghie0mmdsbiljdhsjibp6p9km7kol3nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

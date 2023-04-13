@@ -1,0 +1,17 @@
+export 'package:sexquare/widgets/bg_candidato.dart';
+export 'package:sexquare/widgets/button_login.dart';
+export 'package:sexquare/widgets/candidato_card.dart';
+export 'package:sexquare/widgets/custom_input_field.dart';
+export 'package:sexquare/widgets/custom_input.dart';
+export 'package:sexquare/widgets/foto_card.dart';
+export 'package:sexquare/widgets/habitacion_image_widget.dart';
+export 'package:sexquare/widgets/habitacion_widget.dart';
+export 'package:sexquare/widgets/horario_image_widget.dart';
+export 'package:sexquare/widgets/horario_widget.dart';
+export 'package:sexquare/widgets/instalacion_image_widget.dart';
+export 'package:sexquare/widgets/instalacion_widget.dart';
+export 'package:sexquare/widgets/labels.dart';
+export 'package:sexquare/widgets/local_image_widget.dart';
+export 'package:sexquare/widgets/local_widget.dart';
+export 'package:sexquare/widgets/logo.dart';
+export 'package:sexquare/widgets/side_menu.dart';
