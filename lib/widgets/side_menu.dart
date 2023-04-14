@@ -1425,7 +1425,7 @@ class _InfoOwners extends StatelessWidget {
           ),
           onTap: () {
             // Navigator.of(context).pop();
-            Navigator.pushNamed(context, 'setCondicion');
+            Navigator.pushNamed(context, 'condicion');
           },
         ),
         const Divider(),
